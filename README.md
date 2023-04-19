@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jueon Park
 - 👀 I’m interested in AI driven Drug Discovery
-- 🌱 I’m currently learning Drug-Target-Interaction or DTI
-- 💞️ I’m working at DMIS Lab. Korea University as a Junior Researcher
+- 🌱 I’m currently learning DTI & Molecule Generation 
+- 💞️ I’m working at DMIS Lab. Korea University as a Master
 - 📫 How to reach me : bioai96@gmail.com
 
 <!---
