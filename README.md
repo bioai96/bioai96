@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI driven Drug Discovery
 - 🌱 I’m currently learning DTI & Molecule Generation & Toxicity Prediction
 - 💞️ I’m working at DMIS Lab. Korea University as a Master Student
-- 📫 How to reach me : bioai96@gmail.com
+- 📫 How to reach me : bioai96@gmail.com | jueon_park@korea.ac.kr
 
 <!---
 bioai96/bioai96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
